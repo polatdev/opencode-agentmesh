@@ -5,6 +5,14 @@
   "keywords": ["opencode", "opencode-plugin", "agent", "multi-agent", "mesh"],
   "license": "MIT",
   "author": "Abdulkadir Polat",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polatdev/opencode-agentmesh.git"
+  },
+  "homepage": "https://github.com/polatdev/opencode-agentmesh#readme",
+  "bugs": {
+    "url": "https://github.com/polatdev/opencode-agentmesh/issues"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
