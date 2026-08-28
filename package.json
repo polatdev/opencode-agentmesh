@@ -1,6 +1,6 @@
 {
   "name": "opencode-agentmesh",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Peer-to-peer messaging between opencode agents running in different sessions, directories and servers",
   "keywords": ["opencode", "opencode-plugin", "agent", "multi-agent", "mesh"],
   "license": "MIT",
